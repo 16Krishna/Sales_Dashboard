@@ -68,7 +68,6 @@ Semantic Models
 Data Analysis & Visualization
 KPI & Business Insights
 Sales & Trend Analysis
-
 ---
 
 # 📥 1. Data Source
