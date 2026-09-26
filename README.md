@@ -18,18 +18,25 @@ The project demonstrates how raw sales data can be transformed into a business-r
 ### End-to-End Flow
 
 CSV Sales Data
+
 ↓
 Microsoft Fabric Pipeline
+
 ↓
 Lakehouse
+
 ↓
 Medallion Architecture(Bronze → Silver → Gold) 
+
 ↓
 Fabric Warehouse
+
 ↓
 Star Schema
+
 ↓
 Power BI Semantic Model
+
 ↓
 Power BI Sales Dashboard
 
