@@ -93,25 +93,24 @@ The CSV file is ingested into Microsoft Fabric using a Fabric Data Pipeline.
 
 ### Pipeline Flow
 
-
-Copy Raw Sales Data
-        ↓
-Copy Data to Delta
-        ↓
-Bronze → Silver Transformation
-        ↓
-Build Gold Layer
-        ↓
-Transform / Prepare Warehouse Data
-        ↓
-Load Dimension Tables
-        ↓
-Load Fact_Sales
-        ↓
-Create Star Schema
-        ↓
-Create Power BI Semantic Model
-        ↓
+Copy Raw Sales Data  
+↓  
+Copy Data to Delta  
+↓  
+Bronze → Silver Transformation  
+↓  
+Build Gold Layer  
+↓  
+Transform / Prepare Warehouse Data  
+↓  
+Load Dimension Tables  
+↓  
+Load Fact_Sales  
+↓  
+Create Star Schema  
+↓  
+Create Power BI Semantic Model  
+↓  
 Build Power BI Dashboard
 
 ## ⭐ 3. Data Model — Star Schema
