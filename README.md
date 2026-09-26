@@ -55,19 +55,22 @@ The final output is an interactive Power BI dashboard that allows stakeholders t
 
 # 🛠️ Technologies Used
 
-Microsoft Fabric
-OneLake & Lakehouse
-Data Pipelines
-Medallion Architecture
-PySpark / Notebooks
-Fabric Warehouse
-SQL
-Star Schema & Data Modeling
-Power BI & DAX
-Semantic Models
-Data Analysis & Visualization
-KPI & Business Insights
-Sales & Trend Analysis
+## 🛠️ Technologies Used
+
+- Microsoft Fabric
+- OneLake & Lakehouse
+- Data Pipelines
+- Medallion Architecture
+- PySpark / Notebooks
+- Fabric Warehouse
+- SQL
+- Star Schema & Data Modeling
+- Power BI & DAX
+- Semantic Models
+- Data Analysis & Visualization
+- KPI & Business Insights
+- Sales & Trend Analysis
+  
 ---
 
 # 📥 1. Data Source
