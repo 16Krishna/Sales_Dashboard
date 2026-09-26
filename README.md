@@ -53,8 +53,6 @@ The final output is an interactive Power BI dashboard that allows stakeholders t
 
 ---
 
-# 🛠️ Technologies Used
-
 ## 🛠️ Technologies Used
 
 - Microsoft Fabric
