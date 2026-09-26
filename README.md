@@ -23,7 +23,7 @@ Microsoft Fabric Pipeline
 ↓  
 Lakehouse  
 ↓  
-Medallion Architecture (Bronze → Silver → Gold)
+Medallion Architecture(Bronze → Silver → Gold)
 ↓  
 Fabric Warehouse  
 ↓  
