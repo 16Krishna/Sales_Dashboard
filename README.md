@@ -113,6 +113,8 @@ Create Power BI Semantic Model
 ↓  
 Build Power BI Dashboard
 
+---
+
 ## ⭐ 3. Data Model — Star Schema
 
 The sales data is organized using a Star Schema to make the data easier to analyze and maintain.
