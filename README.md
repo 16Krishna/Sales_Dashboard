@@ -12,7 +12,8 @@ The project demonstrates how raw sales data can be transformed into a business-r
 
 ## 🏗️ Project Architecture
 
-![Microsoft Fabric Sales Analytics Architecture](architecture.png)
+<img width="1939" height="811" alt="Sales_Data_Architecture" src="https://github.com/user-attachments/assets/85306783-84c9-4365-8729-8a033ffa06f0" />
+
 
 ### End-to-End Flow
 
